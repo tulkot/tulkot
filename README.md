@@ -1,6 +1,6 @@
-### Hello there, I'm Tulika 👋
+## Hello there, I'm Tulika 👋
 
-## I'm a Tech Enthusiast with a zeal for Data Science & Machine Learning.
+### I'm a Tech Enthusiast with a zeal for Data Science & Machine Learning.
 
 Thanks for dropping by here! 
 
