@@ -6,7 +6,9 @@ Thanks for dropping by here!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulkot&layout=compact&theme=radical)](https://github.com/tulkot/github-readme-stats)
 
-You can connect with me from ⬇️ 
+You can connect with me ⬇️ 
+<br />
+<br />
 <br />
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
