@@ -1,12 +1,14 @@
 ### Hello there, I'm Tulika 👋
 
+## I'm a Tech Enthusiast with a zeal for Data Science & Machine Learning.
+
 Thanks for dropping by here! 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulkot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulkot&layout=compact&theme=radical)](https://github.com/tulkot/github-readme-stats)
 
-You can connect with me ⬇️ 
+Social Media handles where you can connect with me ⬇️ 
 <br />
 <br />
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
