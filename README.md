@@ -4,7 +4,7 @@ Thanks for dropping by here!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulkot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulkot&layout=compact)](https://github.com/tulkot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulkot&layout=compact&theme=radical)](https://github.com/tulkot/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
