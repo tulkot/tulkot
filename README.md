@@ -1,6 +1,13 @@
 ### Hello there, I'm Tulika 👋
 
-Thanks for dropping by here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Thanks for dropping by here! 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulkot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **tulkot/tulkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
