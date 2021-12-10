@@ -5,7 +5,7 @@
 Thanks for dropping by here! 
 
 * Currently pursuing a Master's of Science in Data Science from the University of New Haven, Connecticut, US. 
-* Completed my Bachelor's of Engineering in Information Technology from St. Francis Institute of Technology, University of Mumbai, Mumbai, India in June 2021.
+* Completed my Bachelor's of Engineering in Information Technology from St. Francis Institute of Technology, University of Mumbai, India in June 2021.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulkot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
